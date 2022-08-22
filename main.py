@@ -40,7 +40,6 @@ INVDICT = {'sword': ['A sharp weapon that will give you an edge in battle', 15],
     
 
 class Player:
-
     default_inventory = {'backpack'}
     default_health = 10
     default_money = 40
